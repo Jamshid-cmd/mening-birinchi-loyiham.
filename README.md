@@ -1,7 +1,7 @@
 # mening-birinchi-loyiham.
 mening birinchi yaratgan loyiham
 
-##Telegram AI bot##
+##Telegram AI bot
 
 Funksiyalari
 
