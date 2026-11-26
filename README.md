@@ -1,9 +1,9 @@
 # mening-birinchi-loyiham.
-##mening birinchi yaratgan loyiham
+mening birinchi yaratgan loyiham
 
 **Telegram AI bot**
 
-Funksiyalari
+## Funksiyalari
 
 1.AI yordamida rasm yaratish
 
