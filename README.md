@@ -14,6 +14,6 @@ Funksiyalari
 
 **Afzalliklaari!!**
 
-1.tez va oson
+-tez va oson
 
-2.reklamalarsiz
+-reklamalarsiz
