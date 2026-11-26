@@ -5,9 +5,13 @@ mening birinchi yaratgan loyiham
 Funksiyalari
 
 1.AI yordamida rasm yaratish
+
 2.AI yordamida video yaratish
+
 3.Ai yordamida ovozni o'zgartirish
 
+
 **Afzalliklaari!!**
--tez va oson 
+-tez va oson
+
 -reklamalarsiz
