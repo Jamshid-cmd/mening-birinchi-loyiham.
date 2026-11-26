@@ -12,6 +12,7 @@ Funksiyalari
 
 
 **Afzalliklaari!!**
+
 1.tez va oson
 
 2.reklamalarsiz
